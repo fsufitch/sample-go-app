@@ -1,0 +1,4 @@
+package: github.com/fsufitch/sample-go-app
+import:
+- package: github.com/gorilla/mux
+  version: ^1.6.1
